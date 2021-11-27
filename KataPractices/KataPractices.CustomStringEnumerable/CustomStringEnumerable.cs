@@ -9,7 +9,7 @@ public class CustomStringEnumerable : IEnumerable<string>
     public CustomStringEnumerable(IEnumerable<string> collection, EnumerableConfig config)
     {
         if (!collection.Any()) throw new ArgumentNullException(nameof(collection), "can not be null");
-        this.collection = collection;
+        this.collection = collection.Where(s=> s.Length > 0).ToList();
         this.config = config ?? throw new ArgumentNullException(nameof(config));
     }
     public IEnumerator<string> GetEnumerator()
@@ -30,5 +30,5 @@ public class CustomStringEnumerable : IEnumerable<string>
     IEnumerator IEnumerable.GetEnumerator()
     {
         return GetEnumerator();
-    }  
+    }
 }

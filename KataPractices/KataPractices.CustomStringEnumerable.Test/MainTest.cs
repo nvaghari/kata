@@ -3,8 +3,15 @@ namespace KataPractices.CustomStringEnumerable.Test;
 [TestClass]
 public class MainTest
 {
-    private readonly string[] collecton = { "Los Angeles", "Dallas", "Virginia Beach", "aurora", "henderson", "St. Petersburg", "7 Oaks", "DC","4" };
+    private readonly string[] collecton = { "Los Angeles", "Dallas", "Virginia Beach", "aurora", "henderson", "St. Petersburg", "7 Oaks", "DC","4","" };
     private readonly EnumerableConfig config = new();
+    [TestMethod]
+    public void RemoveEmptyStrings()
+    {
+        var customEnum = new CustomStringEnumerable(collecton, config);
+
+        Assert.AreEqual(9, customEnum.Count());
+    }
     [TestMethod]
     public void CheckMinimumBoundry()
     {
