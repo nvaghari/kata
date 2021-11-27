@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99aacfb4-8748-4429-b929-75ea8d895f7b": {
+      "ProjectGuid": "99aacfb4-8748-4429-b929-75ea8d895f7b",
+      "DisplayName": "KataPractices.CustomStringEnumerable",
+      "ColorIndex": 0
+    },
+    "45054a2a-71e5-4c36-bd66-98114120d05d": {
+      "ProjectGuid": "45054a2a-71e5-4c36-bd66-98114120d05d",
+      "DisplayName": "KataPractices.CustomStringEnumerable.Test",
+      "ColorIndex": 1
+    },
+    "b874ed31-0c0b-46a0-adab-fd5da00bed50": {
+      "ProjectGuid": "b874ed31-0c0b-46a0-adab-fd5da00bed50",
+      "DisplayName": "KataPractices.CustomStringEnumerable",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

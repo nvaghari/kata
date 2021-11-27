@@ -1,0 +1,12 @@
+D:\Projects\Kata\KataPractices\KataPractices.CustomStringEnumerable\bin\Debug\net6.0\KataPractices.CustomStringEnumerable.deps.json
+D:\Projects\Kata\KataPractices\KataPractices.CustomStringEnumerable\bin\Debug\net6.0\KataPractices.CustomStringEnumerable.dll
+D:\Projects\Kata\KataPractices\KataPractices.CustomStringEnumerable\bin\Debug\net6.0\ref\KataPractices.CustomStringEnumerable.dll
+D:\Projects\Kata\KataPractices\KataPractices.CustomStringEnumerable\bin\Debug\net6.0\KataPractices.CustomStringEnumerable.pdb
+D:\Projects\Kata\KataPractices\KataPractices.CustomStringEnumerable\obj\Debug\net6.0\KataPractices.CustomStringEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Kata\KataPractices\KataPractices.CustomStringEnumerable\obj\Debug\net6.0\KataPractices.CustomStringEnumerable.AssemblyInfoInputs.cache
+D:\Projects\Kata\KataPractices\KataPractices.CustomStringEnumerable\obj\Debug\net6.0\KataPractices.CustomStringEnumerable.AssemblyInfo.cs
+D:\Projects\Kata\KataPractices\KataPractices.CustomStringEnumerable\obj\Debug\net6.0\KataPractices.CustomStringEnumerable.csproj.CoreCompileInputs.cache
+D:\Projects\Kata\KataPractices\KataPractices.CustomStringEnumerable\obj\Debug\net6.0\KataPractices.CustomStringEnumerable.dll
+D:\Projects\Kata\KataPractices\KataPractices.CustomStringEnumerable\obj\Debug\net6.0\ref\KataPractices.CustomStringEnumerable.dll
+D:\Projects\Kata\KataPractices\KataPractices.CustomStringEnumerable\obj\Debug\net6.0\KataPractices.CustomStringEnumerable.pdb
+D:\Projects\Kata\KataPractices\KataPractices.CustomStringEnumerable\obj\Debug\net6.0\KataPractices.CustomStringEnumerable.csproj.AssemblyReference.cache
